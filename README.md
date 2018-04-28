@@ -18,7 +18,7 @@ AnnoColor(type = "Nat50", num = 8)
 **num:**	how much number of colors do you want.You can provide a number or a vector. A number means you can get the first color to the num color. A vector means you only get the colors in the vector.It has no use for Heatmap Color. Default is 8
 
 **type:**	
-which palette do you want: Nat50 Light RWY RWB RYB.Default is "Nat50"
+which palette do you want: Nat50 LNat50 RWY RWB RYB.Default is "Nat50"
 
 ###### Details:
 There are 5 palettes:2 for normal and 3 for heatmap
