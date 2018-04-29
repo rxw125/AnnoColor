@@ -1,0 +1,14 @@
+Package: AnnoColor
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.1
+Author: Ren Xue
+Maintainer: <xueren@genome.cn>
+Description: get a vector of color codes from palette created by Annoroad Drawing Group
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-04-17 23:17:41 UTC; Administrator
