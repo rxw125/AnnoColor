@@ -1,7 +1,7 @@
 Package: AnnoColor
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.1
+Version: 0.2.0
 Author: Ren Xue
 Maintainer: <xueren@genome.cn>
 Description: get a vector of color codes from palette created by Annoroad Drawing Group
